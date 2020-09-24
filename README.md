@@ -1,6 +1,7 @@
 # Angular10exampleCalculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.0-next.3.
+Project created following tutorial [Angular 10/9 Tutorial and Example: Build your First Angular App](https://www.techiediaries.com/angular/angular-9-tutorial-and-example/).
 
 ## Development server
 
